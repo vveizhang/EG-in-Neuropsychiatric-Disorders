@@ -25,10 +25,6 @@ We will focus on the specific genes from two studies other than the overlapping 
 We found 6 datasets in the GEO database with RNA-seq in results from brain tissue of NDD, neurodevelopmental, and psychiatric disorder patients and healthy controls, including AD, ALS, ASD, HD, and SCZ. We initially downloaded the raw gene expression data and then use standard RNA-seq analysis pipeline to get the expression data, then we used the R package DESeq2 to normalize them, followed by a comparison of the DESeq2 p-values (P-DE) of the NEGs and ACEGs.
 
 
-![Figure 2](./Files/Fig2.jpg)
-
-The above figure shows the NEGs are more likely to exhibit differential expression in brain tissue in neuropsychiatric disorders compared to ACEGs.
-
 
 
 ## NEGs and ACEGs are enriched in different co-expression networks and show different temporal expression patterns
