@@ -20,12 +20,6 @@ The above figure shows the Gene ontology (GO) analysis of essential genes. (a) V
 
 We will focus on the specific genes from two studies other than the overlapping of the two gene list, we will refer the genes from in vivo CNS screening as NEGs(Neuronal essential genes), the common essential genes from Project Achilles as ACEGs(Achilles Project-specific essential genes)
 
-##  NEGs are more likely to exhibit differential expression in brain tissue in case-control studies of neuropsychiatric disorders compared to ACEGs
-
-We found 6 datasets in the GEO database with RNA-seq in results from brain tissue of NDD, neurodevelopmental, and psychiatric disorder patients and healthy controls, including AD, ALS, ASD, HD, and SCZ. We initially downloaded the raw gene expression data and then use standard RNA-seq analysis pipeline to get the expression data, then we used the R package DESeq2 to normalize them, followed by a comparison of the DESeq2 p-values (P-DE) of the NEGs and ACEGs.
-
-
-
 
 ## NEGs and ACEGs are enriched in different co-expression networks and show different temporal expression patterns
 
