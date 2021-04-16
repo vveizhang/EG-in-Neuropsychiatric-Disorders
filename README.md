@@ -49,7 +49,7 @@ We collected GWAS data and rare variants data for neuropsychiatric disorders, as
 The data is summarized in the following table.
 
 
-![table](./Files/table.png)
+![table](./Files/Table1.jpg)
 
 
 
