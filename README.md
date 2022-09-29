@@ -14,9 +14,7 @@ Genome-wide screenings of ‘essential genes’, i.e., genes required for an org
 Here, we aim to investigate the role of essential genes in brain development and disease risk with a comprehensive set of bioinformatics tools, including integration with transcriptomic data from developing human brain, publicly-available data from genome-wide association studies, de novo mutation datasets for different neuropsychiatric disorders, and case-control transcriptomic data from postmortem brain tissues.
 
 
-## Gene ontology (GO) analysis
-![Figure 1](./Files/Fig1.jpg)
-The above figure shows the Gene ontology (GO) analysis of essential genes. (a) Venn diagram shows overlapping of Neuronal Essential Genes (NEGs) and Achilles Project-specific essential genes (ACEGs). (b) Top biological process GO terms enriched in NEGs and ACEGs. (c) Top cellular component GO terms enriched in NEGs and ACEGs.
+
 
 We will focus on the specific genes from two studies other than the overlapping of the two gene list, we will refer the genes from in vivo CNS screening as NEGs(Neuronal essential genes), the common essential genes from Project Achilles as ACEGs(Achilles Project-specific essential genes)
 
