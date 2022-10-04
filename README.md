@@ -10,6 +10,10 @@
 ## Background
 This paper has been published in Translational psychiatry.
 Essential genes from genome-wide screenings as a resource for neuropsychiatric disorders gene discovery. Wei Zhang, Joao Quevedo, Gabriel R Fries, Translational Psychiatry volume 11, Article number: 317 (2021)
+
+
+
+
 Genome-wide screenings of ‘essential genes’, i.e., genes required for an organism or cell survival, have been traditionally conducted in vitro in cancer cell lines, limiting the translation of results to other tissues and non-cancerous cells. Recently, an in vivo screening was conducted in adult mouse striatum tissue, providing the first genome-wide dataset of essential genes in neuronal cells.
 ![2GeneList](./Files/2GeneList.png)
 
